@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Loaner Requests Config">216f3b502f6320108b97309cf699b6f6</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Task rejected">716f7b5095632010e70f6221ff5ffe30</macroponent>
+        <macroponent_config>{
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Task rejected Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Task rejected">b16f7b50ba632010bd89e5f118f31e2c</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-04-12 16:14:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fd6f7b5083632010f8a1795b0c953238</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task rejected Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Requests" source="x_563535_loaner_0">329e7f102f6320108b97309cf699b6e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Requests">329e7f102f6320108b97309cf699b6e7</sys_scope>
+        <sys_update_name>sys_ux_screen_fd6f7b5083632010f8a1795b0c953238</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-04-12 16:14:55</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=fd6f7b5083632010f8a1795b0c953238"/>
+</record_update>

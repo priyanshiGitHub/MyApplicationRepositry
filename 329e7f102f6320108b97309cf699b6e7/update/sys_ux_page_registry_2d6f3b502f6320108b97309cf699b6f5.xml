@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>216f3b502f6320108b97309cf699b6f6</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <path>loaner-requests</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-04-12 16:14:58</sys_created_on>
+        <sys_id>2d6f3b502f6320108b97309cf699b6f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Requests</sys_name>
+        <sys_package display_value="Loaner Requests" source="x_563535_loaner_0">329e7f102f6320108b97309cf699b6e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Requests">329e7f102f6320108b97309cf699b6e7</sys_scope>
+        <sys_update_name>sys_ux_page_registry_2d6f3b502f6320108b97309cf699b6f5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-04-12 16:14:58</sys_updated_on>
+        <title>Loaner Requests</title>
+    </sys_ux_page_registry>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate_bundle">
+    <sys_ux_composite_data_template_predicate_bundle action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>My requests - incident bundle</name>
+        <sys_class_name>sys_ux_composite_data_template_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-04-12 16:14:59</sys_created_on>
+        <sys_id>f16f7b50ca63201046172ead36859333</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My requests - incident bundle</sys_name>
+        <sys_package display_value="Loaner Requests" source="x_563535_loaner_0">329e7f102f6320108b97309cf699b6e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Requests">329e7f102f6320108b97309cf699b6e7</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_bundle_f16f7b50ca63201046172ead36859333</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-04-12 16:14:59</sys_updated_on>
+    </sys_ux_composite_data_template_predicate_bundle>
+</record_update>

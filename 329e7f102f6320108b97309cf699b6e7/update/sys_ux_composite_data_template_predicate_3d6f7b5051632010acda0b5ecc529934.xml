@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>due_date,short_description,number,state</field_list>
+        <name>My request - incident predicate</name>
+        <order/>
+        <predicate_bundle display_value="My requests - incident bundle">f16f7b50ca63201046172ead36859333</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-04-12 16:14:56</sys_created_on>
+        <sys_id>3d6f7b5051632010acda0b5ecc529934</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My request - incident predicate</sys_name>
+        <sys_package display_value="Loaner Requests" source="x_563535_loaner_0">329e7f102f6320108b97309cf699b6e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Requests">329e7f102f6320108b97309cf699b6e7</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_3d6f7b5051632010acda0b5ecc529934</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-04-12 16:14:56</sys_updated_on>
+        <table>incident</table>
+        <ux_template display_value="Item produced template">b96f7b50b1632010bb34bfef06499933</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>
